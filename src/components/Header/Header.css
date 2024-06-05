@@ -1,0 +1,20 @@
+header{
+    background-color: #000;
+}
+header div{
+    text-align: center;
+    border-bottom: 1px dashed #fff;
+    padding-bottom: 10px;
+}
+header nav{
+    width: 90%;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+header nav a{
+    display: inline-block;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px;
+    text-decoration: none;
+}
